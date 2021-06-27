@@ -7,3 +7,4 @@ Estou sempre disposto a trocar ideias sobre esse asuntos.
 Conheca meu blog: https://paulocostati.com/
 Canal no Youtube: https://www.youtube.com/channel/UClBO4kSVP2LcFJZP1wgHWHA
 
+Aqui irei deixar scripts que uso diariamente.
